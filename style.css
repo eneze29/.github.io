@@ -70,6 +70,8 @@ h3{
 
 .double,.catch,.xp-3,.con,span{
 		color:#707070;
+		Margin-left:10px;
+		
 
 }
 .create, .team{
@@ -78,6 +80,9 @@ h3{
 }
 img{
 	border-radius: 50%;
+}
+. progress, h4{
+	Margin-left:10px;
 }
  form{
   width: 50%;
@@ -130,7 +135,8 @@ textarea{
 	font-weight: bold;
 }
 @media screen and (max-width:800px) {
-  .mono, .me, {
-    width:100%; 
+. container,  .mono, .me, {
+    width:50%; 
   }
 }
+  
