@@ -135,7 +135,7 @@ textarea{
 	font-weight: bold;
 }
 @media screen and (max-width:800px) {
-. container,  .mono, .me, {
+.mono, .me, {
     width:100%; 
   }
 }
