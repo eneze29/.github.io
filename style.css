@@ -1,0 +1,136 @@
+html,body{
+	height: 100%;
+}
+.mono{
+	min-height: 100%;
+}
+.navbar-dark .navbar-brand{
+	color: #192bc2;
+	font-size: 1.8em;
+}
+ 
+.intro{
+	height: 300px;
+	width: 50%;
+	float: left;
+	border-radius: 50px 0px 50px 0px;
+	background-color: #00FFFF;
+	text-align: center;
+	padding-top: 50px;
+
+
+}
+p{
+	margin: 0px;
+}
+}
+.lead{
+	font-weight: 400;
+}
+.name{
+	padding-top: 10px;
+	font-size: 30px;
+}
+.me{
+	height: 400px;
+	width: 40%;
+	float: left;
+	border-radius: 70px 0px 70px 0px;
+	background-color: #111;
+	margin-left: 20px;
+	margin-top: 30px;
+
+}
+.me img{
+	margin:20%;
+}
+.about{
+	clear: both;
+	 color: #192bc2;
+	 font-weight: 200px;
+	 font-size: 40px;
+	 padding-top: 20px;
+}
+.progress{
+	margin-top: 30px;
+
+}
+.
+.offset-md-3{
+	margin-top: 30px;
+	padding-top: 30px;
+}
+h4{
+	color: #192bc2;
+}
+
+h3{
+	color: #192bc2;
+}
+
+.double,.catch,.xp-3,.con,span{
+		color:#707070;
+
+}
+.create, .team{
+	margin-top: 40px;
+
+}
+img{
+	border-radius: 50%;
+}
+ form{
+  width: 50%;
+  height: 400px;
+  margin: 0px auto;
+  padding: 20px;
+  border: 1px solid #B0C4DE;
+  background: white;
+  border-radius:  15px;
+}
+.input-group {
+  margin: 5px 0px 5px 0px;
+}
+.input-group label {
+  display: block;
+  text-align: left;
+  margin: 3px;
+}
+.input-group input {
+  height: 30px;
+  width: 93%;
+  padding: 5px 10px;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 1px solid grey;
+}
+textarea{
+	width: 93%;
+}
+.btn-info{
+	margin: 0 auto;
+}
+.fa{
+	padding-top: 7px;
+	padding-right: 4px;
+}
+.submit{
+	text-align: center;
+	margin-top: 10px;
+}
+.fa-facebook {
+  padding: 20px;
+  
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+}
+.ed{
+	color: #45b6fe;
+	font-weight: bold;
+}
+@media screen and (max-width:800px) {
+  .mono, .me {
+    width:100%; 
+  }
+}
